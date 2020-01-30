@@ -1,0 +1,6 @@
+Fake HTTP server with random delay for response (return 200 code with OK)
+
+Configure via enviriment variables:
+LISTEN   (Default :8080)
+MINDELAY (Default 0s)
+MAXDELAY (Default 0s)
